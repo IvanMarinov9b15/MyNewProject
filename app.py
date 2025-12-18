@@ -5,4 +5,4 @@ if name:
    st.write(f"Здравей, {name}!")
 number = st.number_input("На колко си?")
 if number:
-   st.write(f"Здравей, {number}!")
+   st.write(f"Вие стена : {number}")
